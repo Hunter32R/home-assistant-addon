@@ -31,8 +31,8 @@ backup_exclude:
 - '*/*/'
 init: false
 startup: services
-name: ESPHome
+name: ESPHome2
 version: 2024.10.0
 slug: esphome
 description: ESPHome add-on for intelligently managing all your ESP8266/ESP32 devices
-image: ghcr.io/esphome/esphome-hassio
+image: ghcr.io/esphome/esphome-hassio:1.21.0-dev20210801
