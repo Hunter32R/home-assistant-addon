@@ -36,7 +36,7 @@ name: ESPHome (dev)
 version: 2024.11.0-dev20241020
 slug: esphome-dev
 description: Development version of ESPHome add-on
-image: ghcr.io/esphome/esphome-hassio
+image: ghcr.io/esphome/esphome-hassio:1.21.0-dev20210801
 stage: experimental
 advanced: true
 options:
